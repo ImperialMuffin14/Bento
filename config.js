@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Nam',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Notion',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://www.notion.so/',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -112,13 +112,13 @@ const CONFIG = {
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://amazon.in/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
+			name: 'Roadmap',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'https://roadmap.sh/',
 		},
 		{
 			id: '6',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Disc',
+					link: 'https://discord.com/app',
 				},
 			],
 		},
